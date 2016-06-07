@@ -8,9 +8,7 @@ CCTG已经拥有二十余名成员，并欢迎更多的Ceph志愿者加入我们
 
 【CCTG翻译流程】 
 
-*选题*，负责选择合适的内容，并将原文转换为markdown格式，提交到CCTG的TranslateProject(https://github.com/gh-Devin/CCTG) 库中。 
-
-*译者*，负责从选题中选择内容进行翻译。 
+*译者*，负责从国外技术大牛博客or技术资讯网站中选择内容进行翻译，采用markdown格式，提交到CCTG的TranslateProject(https://github.com/gh-Devin/CCTG) 库中。 。 
 
 *校对*，负责将初译的文章进行文字润色、技术校对等工作。 
 
@@ -19,7 +17,6 @@ CCTG已经拥有二十余名成员，并欢迎更多的Ceph志愿者加入我们
 【加入我们】 
 请首先加入翻译组的QQ群，群号是：414397424，加群时请说明是志愿者。 
 
-加入的成员，请先阅读WIKI 如何开始()。 
 
 【见习成员和正式成员】 
 初次加入的成员，作为见习成员，请先fork本项目。 
