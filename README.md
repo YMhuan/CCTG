@@ -7,7 +7,7 @@ CCTG是Ceph中国社区（ http://www.ceph.org.cn/ ）的翻译小组，负责�
 CCTG已经拥有二十余名成员，并欢迎更多的Ceph志愿者加入我们的团队。 
 
 【CCTG翻译流程】 
-*选题*，负责选择合适的内容，并将原文转换为markdown格式，提交到CCTG的TranslateProject(https://github.com/LCTT/TranslateProject) 库中。 
+*选题*，负责选择合适的内容，并将原文转换为markdown格式，提交到CCTG的TranslateProject(https://github.com/gh-Devin/CCTG) 库中。 
 
 *译者*，负责从选题中选择内容进行翻译。 
 
